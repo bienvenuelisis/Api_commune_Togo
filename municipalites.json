@@ -1,0 +1,3246 @@
+{
+    "success": true,
+    "data": {
+        "regions": [
+            {
+                "id": 1,
+                "name": "Maritime",
+                "code": "1",
+                "capital": "Tsévié",
+                "prefectures": [
+                    {
+                        "id": 1,
+                        "name": "Avé",
+                        "code": "1-0",
+                        "capital": "Kévé",
+                        "municipalities": [
+                            {
+                                "id": 86,
+                                "name": "Avé 1",
+                                "code": "1-0-1",
+                                "capital": "Kévé",
+                                "cantons": [
+                                    {
+                                        "id": 316,
+                                        "name": "Kévé",
+                                        "code": "1-0-1-1"
+                                    },
+                                    {
+                                        "id": 317,
+                                        "name": "Zolo",
+                                        "code": "1-0-1-2"
+                                    },
+                                    {
+                                        "id": 318,
+                                        "name": "Ando",
+                                        "code": "1-0-1-3"
+                                    },
+                                    {
+                                        "id": 319,
+                                        "name": "Tovégan",
+                                        "code": "1-0-1-4"
+                                    },
+                                    {
+                                        "id": 320,
+                                        "name": "Asahoun",
+                                        "code": "1-0-1-5"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 87,
+                                "name": "Avé 2",
+                                "code": "1-0-2",
+                                "capital": "Noépé",
+                                "cantons": [
+                                    {
+                                        "id": 321,
+                                        "name": "Noépé",
+                                        "code": "1-0-2-1"
+                                    },
+                                    {
+                                        "id": 322,
+                                        "name": "Badja",
+                                        "code": "1-0-2-2"
+                                    },
+                                    {
+                                        "id": 323,
+                                        "name": "Aképé",
+                                        "code": "1-0-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Bas-Mono",
+                        "code": "1-1",
+                        "capital": "Afagnan",
+                        "municipalities": [
+                            {
+                                "id": 88,
+                                "name": "Bas-Mono 1",
+                                "code": "1-1-1",
+                                "capital": "Afagnagan",
+                                "cantons": [
+                                    {
+                                        "id": 324,
+                                        "name": "Afagnagan",
+                                        "code": "1-1-1-1"
+                                    },
+                                    {
+                                        "id": 325,
+                                        "name": "Kpétsou",
+                                        "code": "1-1-1-2"
+                                    },
+                                    {
+                                        "id": 326,
+                                        "name": "Afagnan-Gbléta",
+                                        "code": "1-1-1-3"
+                                    },
+                                    {
+                                        "id": 327,
+                                        "name": "Agomé-Glouzou",
+                                        "code": "1-1-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 89,
+                                "name": "Bas-Mono 2",
+                                "code": "1-1-2",
+                                "capital": "Attitongon",
+                                "cantons": [
+                                    {
+                                        "id": 328,
+                                        "name": "Attitongon",
+                                        "code": "1-1-2-1"
+                                    },
+                                    {
+                                        "id": 329,
+                                        "name": "Agbétiko",
+                                        "code": "1-1-2-2"
+                                    },
+                                    {
+                                        "id": 330,
+                                        "name": "Hompou",
+                                        "code": "1-1-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Yoto",
+                        "code": "1-2",
+                        "capital": "Tabligbo",
+                        "municipalities": [
+                            {
+                                "id": 90,
+                                "name": "Yoto 1",
+                                "code": "1-2-1",
+                                "capital": "Tabligbo",
+                                "cantons": [
+                                    {
+                                        "id": 331,
+                                        "name": "Tabligbo",
+                                        "code": "1-2-1-1"
+                                    },
+                                    {
+                                        "id": 332,
+                                        "name": "Amoussimé",
+                                        "code": "1-2-1-2"
+                                    },
+                                    {
+                                        "id": 333,
+                                        "name": "Kouvé",
+                                        "code": "1-2-1-3"
+                                    },
+                                    {
+                                        "id": 334,
+                                        "name": "Kini-Kondji",
+                                        "code": "1-2-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 91,
+                                "name": "Yoto 2",
+                                "code": "1-2-2",
+                                "capital": "Ahépé",
+                                "cantons": [
+                                    {
+                                        "id": 335,
+                                        "name": "Ahépé",
+                                        "code": "1-2-2-1"
+                                    },
+                                    {
+                                        "id": 336,
+                                        "name": "Tchékpo",
+                                        "code": "1-2-2-2"
+                                    },
+                                    {
+                                        "id": 337,
+                                        "name": "Zafi",
+                                        "code": "1-2-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 92,
+                                "name": "Yoto 3",
+                                "code": "1-2-3",
+                                "capital": "Tokpli",
+                                "cantons": [
+                                    {
+                                        "id": 338,
+                                        "name": "Tokpli",
+                                        "code": "1-2-3-1"
+                                    },
+                                    {
+                                        "id": 339,
+                                        "name": "Gboto",
+                                        "code": "1-2-3-2"
+                                    },
+                                    {
+                                        "id": 340,
+                                        "name": "Tométy-Kondji",
+                                        "code": "1-2-3-3"
+                                    },
+                                    {
+                                        "id": 341,
+                                        "name": "Sédomé",
+                                        "code": "1-2-3-4"
+                                    },
+                                    {
+                                        "id": 342,
+                                        "name": "Essé-Godjin",
+                                        "code": "1-2-3-5"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Vo",
+                        "code": "1-3",
+                        "capital": "Vogan",
+                        "municipalities": [
+                            {
+                                "id": 93,
+                                "name": "Vo 1",
+                                "code": "1-3-1",
+                                "capital": "Vogan",
+                                "cantons": [
+                                    {
+                                        "id": 343,
+                                        "name": "Vogan",
+                                        "code": "1-3-1-1"
+                                    },
+                                    {
+                                        "id": 344,
+                                        "name": "Vo-Koutimé",
+                                        "code": "1-3-1-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 94,
+                                "name": "Vo 2",
+                                "code": "1-3-2",
+                                "capital": "Togoville",
+                                "cantons": [
+                                    {
+                                        "id": 345,
+                                        "name": "Togoville",
+                                        "code": "1-3-2-1"
+                                    },
+                                    {
+                                        "id": 346,
+                                        "name": "Anyronkopé",
+                                        "code": "1-3-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 95,
+                                "name": "Vo 3",
+                                "code": "1-3-3",
+                                "capital": "Dzrékpo",
+                                "cantons": [
+                                    {
+                                        "id": 347,
+                                        "name": "Dzrékpo",
+                                        "code": "1-3-3-1"
+                                    },
+                                    {
+                                        "id": 348,
+                                        "name": "Dagbati",
+                                        "code": "1-3-3-2"
+                                    },
+                                    {
+                                        "id": 349,
+                                        "name": "Momé",
+                                        "code": "1-3-3-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 96,
+                                "name": "Vo 4",
+                                "code": "1-3-4",
+                                "capital": "Akoumapé",
+                                "cantons": [
+                                    {
+                                        "id": 350,
+                                        "name": "Akoumapé",
+                                        "code": "1-3-4-1"
+                                    },
+                                    {
+                                        "id": 351,
+                                        "name": "Sévagan",
+                                        "code": "1-3-4-2"
+                                    },
+                                    {
+                                        "id": 352,
+                                        "name": "Hahotoé",
+                                        "code": "1-3-4-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lacs",
+                        "code": "1-4",
+                        "capital": "Aného",
+                        "municipalities": [
+                            {
+                                "id": 97,
+                                "name": "Lacs 1",
+                                "code": "1-4-1",
+                                "capital": "Aného",
+                                "cantons": [
+                                    {
+                                        "id": 353,
+                                        "name": "Aného",
+                                        "code": "1-4-1-1"
+                                    },
+                                    {
+                                        "id": 354,
+                                        "name": "Ville Aného",
+                                        "code": "1-4-1-2"
+                                    },
+                                    {
+                                        "id": 355,
+                                        "name": "Glidji",
+                                        "code": "1-4-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 98,
+                                "name": "Lacs 2",
+                                "code": "1-4-2",
+                                "capital": "Aklakou",
+                                "cantons": [
+                                    {
+                                        "id": 356,
+                                        "name": "Aklakou",
+                                        "code": "1-4-2-1"
+                                    },
+                                    {
+                                        "id": 357,
+                                        "name": "Agouégan",
+                                        "code": "1-4-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 99,
+                                "name": "Lacs 3",
+                                "code": "1-4-3",
+                                "capital": "Agbodrafo",
+                                "cantons": [
+                                    {
+                                        "id": 358,
+                                        "name": "Agbodrafo",
+                                        "code": "1-4-3-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 100,
+                                "name": "Lacs 4",
+                                "code": "1-4-4",
+                                "capital": "Anfoin",
+                                "cantons": [
+                                    {
+                                        "id": 359,
+                                        "name": "Anfoin",
+                                        "code": "1-4-4-1"
+                                    },
+                                    {
+                                        "id": 360,
+                                        "name": "Ganavé",
+                                        "code": "1-4-4-2"
+                                    },
+                                    {
+                                        "id": 361,
+                                        "name": "Fiata",
+                                        "code": "1-4-4-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Zio",
+                        "code": "1-5",
+                        "capital": "Tsévié",
+                        "municipalities": [
+                            {
+                                "id": 101,
+                                "name": "Zio 1",
+                                "code": "1-5-1",
+                                "capital": "Tsévié",
+                                "cantons": [
+                                    {
+                                        "id": 362,
+                                        "name": "Tsévié",
+                                        "code": "1-5-1-1"
+                                    },
+                                    {
+                                        "id": 363,
+                                        "name": "Gbatopé",
+                                        "code": "1-5-1-2"
+                                    },
+                                    {
+                                        "id": 364,
+                                        "name": "Gblainvié",
+                                        "code": "1-5-1-3"
+                                    },
+                                    {
+                                        "id": 365,
+                                        "name": "Dalavé",
+                                        "code": "1-5-1-4"
+                                    },
+                                    {
+                                        "id": 366,
+                                        "name": "Djagblé",
+                                        "code": "1-5-1-5"
+                                    },
+                                    {
+                                        "id": 367,
+                                        "name": "Abobo",
+                                        "code": "1-5-1-6"
+                                    },
+                                    {
+                                        "id": 368,
+                                        "name": "Kpomé",
+                                        "code": "1-5-1-7"
+                                    },
+                                    {
+                                        "id": 369,
+                                        "name": "Davié",
+                                        "code": "1-5-1-8"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 102,
+                                "name": "Zio 2",
+                                "code": "1-5-2",
+                                "capital": "Kovié",
+                                "cantons": [
+                                    {
+                                        "id": 370,
+                                        "name": "Kovié",
+                                        "code": "1-5-2-1"
+                                    },
+                                    {
+                                        "id": 371,
+                                        "name": "Mission-Tové",
+                                        "code": "1-5-2-2"
+                                    },
+                                    {
+                                        "id": 372,
+                                        "name": "Wli",
+                                        "code": "1-5-2-3"
+                                    },
+                                    {
+                                        "id": 373,
+                                        "name": "Bolou",
+                                        "code": "1-5-2-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 103,
+                                "name": "Zio 3",
+                                "code": "1-5-3",
+                                "capital": "Agbélouvé",
+                                "cantons": [
+                                    {
+                                        "id": 374,
+                                        "name": "Agbélouvé",
+                                        "code": "1-5-3-1"
+                                    },
+                                    {
+                                        "id": 375,
+                                        "name": "Gamé",
+                                        "code": "1-5-3-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 104,
+                                "name": "Zio 4",
+                                "code": "1-5-4",
+                                "capital": "Gapé-Centre",
+                                "cantons": [
+                                    {
+                                        "id": 376,
+                                        "name": "Gapé-Centre",
+                                        "code": "1-5-4-1"
+                                    },
+                                    {
+                                        "id": 377,
+                                        "name": "Gapé-Kpodji",
+                                        "code": "1-5-4-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Agoé-Nyivé",
+                        "code": "1-6",
+                        "capital": "Agoè-Nyivé",
+                        "municipalities": [
+                            {
+                                "id": 105,
+                                "name": "Agoé-Nyivé 1",
+                                "code": "1-6-1",
+                                "capital": "Agoé-Nyivé",
+                                "cantons": [
+                                    {
+                                        "id": 378,
+                                        "name": "Agoé-Nyivé",
+                                        "code": "1-6-1-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 106,
+                                "name": "Agoé-Nyivé 2",
+                                "code": "1-6-2",
+                                "capital": "Légbassito",
+                                "cantons": [
+                                    {
+                                        "id": 379,
+                                        "name": "Légbassito",
+                                        "code": "1-6-2-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 107,
+                                "name": "Agoé-Nyivé 3",
+                                "code": "1-6-3",
+                                "capital": "Vakpossito",
+                                "cantons": [
+                                    {
+                                        "id": 380,
+                                        "name": "Vakpossito",
+                                        "code": "1-6-3-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 108,
+                                "name": "Agoé-Nyivé 4",
+                                "code": "1-6-4",
+                                "capital": "Togblé",
+                                "cantons": [
+                                    {
+                                        "id": 381,
+                                        "name": "Togblé",
+                                        "code": "1-6-4-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 109,
+                                "name": "Agoé-Nyivé 5",
+                                "code": "1-6-5",
+                                "capital": "Zanguéra",
+                                "cantons": [
+                                    {
+                                        "id": 382,
+                                        "name": "Zanguéra",
+                                        "code": "1-6-5-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 110,
+                                "name": "Agoé-Nyivé 6",
+                                "code": "1-6-6",
+                                "capital": "Adétikopé",
+                                "cantons": [
+                                    {
+                                        "id": 383,
+                                        "name": "Adétikopé",
+                                        "code": "1-6-6-1"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Golfe",
+                        "code": "1-7",
+                        "capital": "Lomé",
+                        "municipalities": [
+                            {
+                                "id": 111,
+                                "name": "Golfe 1",
+                                "code": "1-7-1",
+                                "capital": "Bè-Afédomé",
+                                "cantons": [
+                                    {
+                                        "id": 384,
+                                        "name": "Bè-Est",
+                                        "code": "1-7-1-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 112,
+                                "name": "Golfe 2",
+                                "code": "1-7-2",
+                                "capital": "Hédzranawoé",
+                                "cantons": [
+                                    {
+                                        "id": 385,
+                                        "name": "Bè-centre",
+                                        "code": "1-7-2-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 113,
+                                "name": "Golfe 3",
+                                "code": "1-7-3",
+                                "capital": "Tokoin Doumasséssé",
+                                "cantons": [
+                                    {
+                                        "id": 386,
+                                        "name": "Bè-ouest",
+                                        "code": "1-7-3-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 114,
+                                "name": "Golfe 4",
+                                "code": "1-7-4",
+                                "capital": "Amoutivé",
+                                "cantons": [
+                                    {
+                                        "id": 387,
+                                        "name": "Amoutivé",
+                                        "code": "1-7-4-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 115,
+                                "name": "Golfe 5",
+                                "code": "1-7-5",
+                                "capital": "Dzidzolé",
+                                "cantons": [
+                                    {
+                                        "id": 388,
+                                        "name": "Aflao-Gakli",
+                                        "code": "1-7-5-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 116,
+                                "name": "Golfe 6",
+                                "code": "1-7-6",
+                                "capital": "Baguida",
+                                "cantons": [
+                                    {
+                                        "id": 389,
+                                        "name": "Baguida",
+                                        "code": "1-7-6-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 117,
+                                "name": "Golfe 7",
+                                "code": "1-7-7",
+                                "capital": "Aflao-Sagbado",
+                                "cantons": [
+                                    {
+                                        "id": 390,
+                                        "name": "Aflao-Sagbado",
+                                        "code": "1-7-7-1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Plateaux",
+                "code": "2",
+                "capital": "Atakpamé",
+                "prefectures": [
+                    {
+                        "id": 9,
+                        "name": "Anié",
+                        "code": "2-0",
+                        "capital": "Anié",
+                        "municipalities": [
+                            {
+                                "id": 54,
+                                "name": "Anié 1",
+                                "code": "2-0-1",
+                                "capital": "Anié",
+                                "cantons": [
+                                    {
+                                        "id": 204,
+                                        "name": "Anié",
+                                        "code": "2-0-1-1"
+                                    },
+                                    {
+                                        "id": 205,
+                                        "name": "Kolo-Kopé",
+                                        "code": "2-0-1-2"
+                                    },
+                                    {
+                                        "id": 206,
+                                        "name": "Palakoko",
+                                        "code": "2-0-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 55,
+                                "name": "Anié 2",
+                                "code": "2-0-2",
+                                "capital": "Adogbénou",
+                                "cantons": [
+                                    {
+                                        "id": 207,
+                                        "name": "Adogbénou",
+                                        "code": "2-0-2-1"
+                                    },
+                                    {
+                                        "id": 208,
+                                        "name": "Glitto",
+                                        "code": "2-0-2-2"
+                                    },
+                                    {
+                                        "id": 209,
+                                        "name": "Atchinédji",
+                                        "code": "2-0-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Est-Mono",
+                        "code": "2-1",
+                        "capital": "Elavagnon",
+                        "municipalities": [
+                            {
+                                "id": 56,
+                                "name": "Est-Mono 1",
+                                "code": "2-1-1",
+                                "capital": "Elavagnon",
+                                "cantons": [
+                                    {
+                                        "id": 210,
+                                        "name": "Elavagnon",
+                                        "code": "2-1-1-1"
+                                    },
+                                    {
+                                        "id": 211,
+                                        "name": "Gbadjahè",
+                                        "code": "2-1-1-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 57,
+                                "name": "Est-Mono 2",
+                                "code": "2-1-2",
+                                "capital": "Morétan",
+                                "cantons": [
+                                    {
+                                        "id": 212,
+                                        "name": "Morétan",
+                                        "code": "2-1-2-1"
+                                    },
+                                    {
+                                        "id": 213,
+                                        "name": "Kamina",
+                                        "code": "2-1-2-2"
+                                    },
+                                    {
+                                        "id": 214,
+                                        "name": "Badin-Copé",
+                                        "code": "2-1-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 58,
+                                "name": "Est-Mono 3",
+                                "code": "2-1-3",
+                                "capital": "Nyamassila",
+                                "cantons": [
+                                    {
+                                        "id": 215,
+                                        "name": "Nyamassila",
+                                        "code": "2-1-3-1"
+                                    },
+                                    {
+                                        "id": 216,
+                                        "name": "Kpéssi",
+                                        "code": "2-1-3-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "MoyenMono",
+                        "code": "2-2",
+                        "capital": "Tohoun",
+                        "municipalities": [
+                            {
+                                "id": 59,
+                                "name": "Moyen-Mono 1",
+                                "code": "2-2-1",
+                                "capital": "Tohoun",
+                                "cantons": [
+                                    {
+                                        "id": 217,
+                                        "name": "Tohoun",
+                                        "code": "2-2-1-1"
+                                    },
+                                    {
+                                        "id": 218,
+                                        "name": "Tado",
+                                        "code": "2-2-1-2"
+                                    },
+                                    {
+                                        "id": 219,
+                                        "name": "Ahassomè",
+                                        "code": "2-2-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 60,
+                                "name": "Moyen-Mono 2",
+                                "code": "2-2-2",
+                                "capital": "Kpékplémé",
+                                "cantons": [
+                                    {
+                                        "id": 220,
+                                        "name": "Kpékplémé",
+                                        "code": "2-2-2-1"
+                                    },
+                                    {
+                                        "id": 221,
+                                        "name": "Saligbé",
+                                        "code": "2-2-2-2"
+                                    },
+                                    {
+                                        "id": 222,
+                                        "name": "Katomé",
+                                        "code": "2-2-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Agou",
+                        "code": "2-3",
+                        "capital": "Agou-Gadjepe",
+                        "municipalities": [
+                            {
+                                "id": 61,
+                                "name": "Agou 1",
+                                "code": "2-3-1",
+                                "capital": "Agou-Gadzépé",
+                                "cantons": [
+                                    {
+                                        "id": 223,
+                                        "name": "Agou-Tavié",
+                                        "code": "2-3-1-1"
+                                    },
+                                    {
+                                        "id": 224,
+                                        "name": "Gadja",
+                                        "code": "2-3-1-2"
+                                    },
+                                    {
+                                        "id": 225,
+                                        "name": "Kati",
+                                        "code": "2-3-1-3"
+                                    },
+                                    {
+                                        "id": 226,
+                                        "name": "Agou-Iboé",
+                                        "code": "2-3-1-4"
+                                    },
+                                    {
+                                        "id": 227,
+                                        "name": "Agou-Akplolo",
+                                        "code": "2-3-1-5"
+                                    },
+                                    {
+                                        "id": 228,
+                                        "name": "Agou-Kébo",
+                                        "code": "2-3-1-6"
+                                    },
+                                    {
+                                        "id": 229,
+                                        "name": "AgouAtigbé",
+                                        "code": "2-3-1-7"
+                                    },
+                                    {
+                                        "id": 230,
+                                        "name": "Agou-Nyogbo",
+                                        "code": "2-3-1-8"
+                                    },
+                                    {
+                                        "id": 231,
+                                        "name": "Agou-NyogboAgbétiko",
+                                        "code": "2-3-1-9"
+                                    },
+                                    {
+                                        "id": 232,
+                                        "name": "Assahoun-Fiagbé",
+                                        "code": "2-3-1-10"
+                                    },
+                                    {
+                                        "id": 233,
+                                        "name": "Klonou",
+                                        "code": "2-3-1-11"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 62,
+                                "name": "Agou 2",
+                                "code": "2-3-2",
+                                "capital": "Amoussoukopé",
+                                "cantons": [
+                                    {
+                                        "id": 234,
+                                        "name": "Amoussoukopé",
+                                        "code": "2-3-2-1"
+                                    },
+                                    {
+                                        "id": 235,
+                                        "name": "Agotimé-Sud (Adzakpa)",
+                                        "code": "2-3-2-2"
+                                    },
+                                    {
+                                        "id": 236,
+                                        "name": "Agotimé-Nord",
+                                        "code": "2-3-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Danyi",
+                        "code": "2-4",
+                        "capital": "Danyi-Apéyémé",
+                        "municipalities": [
+                            {
+                                "id": 63,
+                                "name": "Danyi 1",
+                                "code": "2-4-1",
+                                "capital": "Danyi-Apéyémé",
+                                "cantons": [
+                                    {
+                                        "id": 237,
+                                        "name": "Danyi-Attigba",
+                                        "code": "2-4-1-1"
+                                    },
+                                    {
+                                        "id": 238,
+                                        "name": "Danyi-Kakpa",
+                                        "code": "2-4-1-2"
+                                    },
+                                    {
+                                        "id": 239,
+                                        "name": "Yikpa",
+                                        "code": "2-4-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 64,
+                                "name": "Danyi 2",
+                                "code": "2-4-2",
+                                "capital": "Danyi-Elavagno",
+                                "cantons": [
+                                    {
+                                        "id": 240,
+                                        "name": "Danyi-Elavagno",
+                                        "code": "2-4-2-1"
+                                    },
+                                    {
+                                        "id": 241,
+                                        "name": "Danyi-Kpeto-Evita",
+                                        "code": "2-4-2-2"
+                                    },
+                                    {
+                                        "id": 242,
+                                        "name": "Ahlon",
+                                        "code": "2-4-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Akébou",
+                        "code": "2-5",
+                        "capital": "Kougnohou",
+                        "municipalities": [
+                            {
+                                "id": 65,
+                                "name": "Akébou 1",
+                                "code": "2-5-1",
+                                "capital": "Kougnohou",
+                                "cantons": [
+                                    {
+                                        "id": 243,
+                                        "name": "Kougnohou",
+                                        "code": "2-5-1-1"
+                                    },
+                                    {
+                                        "id": 244,
+                                        "name": "Djon",
+                                        "code": "2-5-1-2"
+                                    },
+                                    {
+                                        "id": 245,
+                                        "name": "Veh",
+                                        "code": "2-5-1-3"
+                                    },
+                                    {
+                                        "id": 246,
+                                        "name": "Gbendè",
+                                        "code": "2-5-1-4"
+                                    },
+                                    {
+                                        "id": 247,
+                                        "name": "Yala",
+                                        "code": "2-5-1-5"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 66,
+                                "name": "Akébou 2",
+                                "code": "2-5-2",
+                                "capital": "Kamina-Akébou",
+                                "cantons": [
+                                    {
+                                        "id": 248,
+                                        "name": "Kamina-Akébou",
+                                        "code": "2-5-2-1"
+                                    },
+                                    {
+                                        "id": 249,
+                                        "name": "Kpalavé",
+                                        "code": "2-5-2-2"
+                                    },
+                                    {
+                                        "id": 250,
+                                        "name": "Sérégbénè",
+                                        "code": "2-5-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Kpélé",
+                        "code": "2-6",
+                        "capital": "Adéta",
+                        "municipalities": [
+                            {
+                                "id": 67,
+                                "name": "Kpélé 1",
+                                "code": "2-6-1",
+                                "capital": "Adéta",
+                                "cantons": [
+                                    {
+                                        "id": 251,
+                                        "name": "Kpélé-Novivé",
+                                        "code": "2-6-1-1"
+                                    },
+                                    {
+                                        "id": 252,
+                                        "name": "Kpélé-Dawlotou",
+                                        "code": "2-6-1-2"
+                                    },
+                                    {
+                                        "id": 253,
+                                        "name": "KpéléAkata",
+                                        "code": "2-6-1-3"
+                                    },
+                                    {
+                                        "id": 254,
+                                        "name": "Kpélé-Govié",
+                                        "code": "2-6-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 68,
+                                "name": "Kpélé 2",
+                                "code": "2-6-2",
+                                "capital": "Kpélé-Elé",
+                                "cantons": [
+                                    {
+                                        "id": 255,
+                                        "name": "Kpélé-Nord",
+                                        "code": "2-6-2-1"
+                                    },
+                                    {
+                                        "id": 256,
+                                        "name": "Kpélé-centre",
+                                        "code": "2-6-2-2"
+                                    },
+                                    {
+                                        "id": 257,
+                                        "name": "Kpélé-Kamé",
+                                        "code": "2-6-2-3"
+                                    },
+                                    {
+                                        "id": 258,
+                                        "name": "Kpélé-Dutoé",
+                                        "code": "2-6-2-4"
+                                    },
+                                    {
+                                        "id": 259,
+                                        "name": "Kpélé-Gbalédzé",
+                                        "code": "2-6-2-5"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Kloto",
+                        "code": "2-7",
+                        "capital": "Kpalimé",
+                        "municipalities": [
+                            {
+                                "id": 69,
+                                "name": "Kloto 1",
+                                "code": "2-7-1",
+                                "capital": "Kpalimé",
+                                "cantons": [
+                                    {
+                                        "id": 260,
+                                        "name": "Kpalimé",
+                                        "code": "2-7-1-1"
+                                    },
+                                    {
+                                        "id": 261,
+                                        "name": "Hanyigba",
+                                        "code": "2-7-1-2"
+                                    },
+                                    {
+                                        "id": 262,
+                                        "name": "Tové",
+                                        "code": "2-7-1-3"
+                                    },
+                                    {
+                                        "id": 263,
+                                        "name": "Kpadapé",
+                                        "code": "2-7-1-4"
+                                    },
+                                    {
+                                        "id": 264,
+                                        "name": "Tomé",
+                                        "code": "2-7-1-5"
+                                    },
+                                    {
+                                        "id": 265,
+                                        "name": "Gbalavé",
+                                        "code": "2-7-1-6"
+                                    },
+                                    {
+                                        "id": 266,
+                                        "name": "Womé",
+                                        "code": "2-7-1-7"
+                                    },
+                                    {
+                                        "id": 267,
+                                        "name": "Yokélé",
+                                        "code": "2-7-1-8"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 70,
+                                "name": "Kloto 2",
+                                "code": "2-7-2",
+                                "capital": "Lavié",
+                                "cantons": [
+                                    {
+                                        "id": 268,
+                                        "name": "Lavié",
+                                        "code": "2-7-2-1"
+                                    },
+                                    {
+                                        "id": 269,
+                                        "name": "Lavié-Apédomé",
+                                        "code": "2-7-2-2"
+                                    },
+                                    {
+                                        "id": 270,
+                                        "name": "Kpimé",
+                                        "code": "2-7-2-3"
+                                    },
+                                    {
+                                        "id": 271,
+                                        "name": "Yokélé",
+                                        "code": "2-7-2-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 71,
+                                "name": "Kloto 3",
+                                "code": "2-7-3",
+                                "capital": "Kuma",
+                                "cantons": [
+                                    {
+                                        "id": 272,
+                                        "name": "Kuma",
+                                        "code": "2-7-3-1"
+                                    },
+                                    {
+                                        "id": 273,
+                                        "name": "Agomé-Yoh",
+                                        "code": "2-7-3-2"
+                                    },
+                                    {
+                                        "id": 274,
+                                        "name": "Agomé-Tomégbé",
+                                        "code": "2-7-3-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "name": "Ogou",
+                        "code": "2-8",
+                        "capital": "Atakpamé",
+                        "municipalities": [
+                            {
+                                "id": 72,
+                                "name": "Ogou 1",
+                                "code": "2-8-1",
+                                "capital": "Atakpamé",
+                                "cantons": [
+                                    {
+                                        "id": 275,
+                                        "name": "Gnagna",
+                                        "code": "2-8-1-1"
+                                    },
+                                    {
+                                        "id": 276,
+                                        "name": "Djama",
+                                        "code": "2-8-1-2"
+                                    },
+                                    {
+                                        "id": 277,
+                                        "name": "Woudou",
+                                        "code": "2-8-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 73,
+                                "name": "Ogou 2",
+                                "code": "2-8-2",
+                                "capital": "Datcha",
+                                "cantons": [
+                                    {
+                                        "id": 278,
+                                        "name": "Datcha",
+                                        "code": "2-8-2-1"
+                                    },
+                                    {
+                                        "id": 279,
+                                        "name": "Akparé",
+                                        "code": "2-8-2-2"
+                                    },
+                                    {
+                                        "id": 280,
+                                        "name": "Katoré",
+                                        "code": "2-8-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 74,
+                                "name": "Ogou 3",
+                                "code": "2-8-3",
+                                "capital": "Gléi",
+                                "cantons": [
+                                    {
+                                        "id": 281,
+                                        "name": "Gléi",
+                                        "code": "2-8-3-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 75,
+                                "name": "Ogou 4",
+                                "code": "2-8-4",
+                                "capital": "Ountivou",
+                                "cantons": [
+                                    {
+                                        "id": 282,
+                                        "name": "Ountivou",
+                                        "code": "2-8-4-1"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "Amou",
+                        "code": "2-9",
+                        "capital": "Amlamé",
+                        "municipalities": [
+                            {
+                                "id": 76,
+                                "name": "Amou 1",
+                                "code": "2-9-1",
+                                "capital": "Ouma(Amlamé)",
+                                "cantons": [
+                                    {
+                                        "id": 283,
+                                        "name": "Ouma (Amlamé)",
+                                        "code": "2-9-1-1"
+                                    },
+                                    {
+                                        "id": 284,
+                                        "name": "Imlè",
+                                        "code": "2-9-1-2"
+                                    },
+                                    {
+                                        "id": 285,
+                                        "name": "Adiva",
+                                        "code": "2-9-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 77,
+                                "name": "Amou 2",
+                                "code": "2-9-2",
+                                "capital": "Amou-Oblo",
+                                "cantons": [
+                                    {
+                                        "id": 286,
+                                        "name": "Amou-Oblo",
+                                        "code": "2-9-2-1"
+                                    },
+                                    {
+                                        "id": 287,
+                                        "name": "Sodo",
+                                        "code": "2-9-2-2"
+                                    },
+                                    {
+                                        "id": 288,
+                                        "name": "Kpatégan",
+                                        "code": "2-9-2-3"
+                                    },
+                                    {
+                                        "id": 289,
+                                        "name": "Ekpégnon",
+                                        "code": "2-9-2-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 78,
+                                "name": "Amou 3",
+                                "code": "2-9-3",
+                                "capital": "Hihéatro",
+                                "cantons": [
+                                    {
+                                        "id": 290,
+                                        "name": "Hihéatro",
+                                        "code": "2-9-3-1"
+                                    },
+                                    {
+                                        "id": 291,
+                                        "name": "Témédja",
+                                        "code": "2-9-3-2"
+                                    },
+                                    {
+                                        "id": 292,
+                                        "name": "Otadi",
+                                        "code": "2-9-3-3"
+                                    },
+                                    {
+                                        "id": 293,
+                                        "name": "Gamé",
+                                        "code": "2-9-3-4"
+                                    },
+                                    {
+                                        "id": 294,
+                                        "name": "Okpahoé",
+                                        "code": "2-9-3-5"
+                                    },
+                                    {
+                                        "id": 295,
+                                        "name": "Evou",
+                                        "code": "2-9-3-6"
+                                    },
+                                    {
+                                        "id": 296,
+                                        "name": "Avedjé-Itadji",
+                                        "code": "2-9-3-7"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Wawa",
+                        "code": "2-10",
+                        "capital": "Badou",
+                        "municipalities": [
+                            {
+                                "id": 79,
+                                "name": "Wawa 1",
+                                "code": "2-10-1",
+                                "capital": "Badou",
+                                "cantons": [
+                                    {
+                                        "id": 297,
+                                        "name": "Badou",
+                                        "code": "2-10-1-1"
+                                    },
+                                    {
+                                        "id": 298,
+                                        "name": "Tomégbé",
+                                        "code": "2-10-1-2"
+                                    },
+                                    {
+                                        "id": 299,
+                                        "name": "Késsibo",
+                                        "code": "2-10-1-3"
+                                    },
+                                    {
+                                        "id": 300,
+                                        "name": "Kpété-Béna",
+                                        "code": "2-10-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 80,
+                                "name": "Wawa 2",
+                                "code": "2-10-2",
+                                "capital": "Gbadi-N’kougna",
+                                "cantons": [
+                                    {
+                                        "id": 301,
+                                        "name": "Gbadi-N’kougna",
+                                        "code": "2-10-2-1"
+                                    },
+                                    {
+                                        "id": 302,
+                                        "name": "Ekéto",
+                                        "code": "2-10-2-2"
+                                    },
+                                    {
+                                        "id": 303,
+                                        "name": "Gobé",
+                                        "code": "2-10-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 81,
+                                "name": "Wawa 3",
+                                "code": "2-10-3",
+                                "capital": "Okou",
+                                "cantons": [
+                                    {
+                                        "id": 304,
+                                        "name": "Okou",
+                                        "code": "2-10-3-1"
+                                    },
+                                    {
+                                        "id": 305,
+                                        "name": "Klabé-Efoukpa",
+                                        "code": "2-10-3-2"
+                                    },
+                                    {
+                                        "id": 306,
+                                        "name": "Ounabé",
+                                        "code": "2-10-3-3"
+                                    },
+                                    {
+                                        "id": 307,
+                                        "name": "Doumé",
+                                        "code": "2-10-3-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "name": "Haho",
+                        "code": "2-11",
+                        "capital": "Notsé",
+                        "municipalities": [
+                            {
+                                "id": 82,
+                                "name": "Haho 1",
+                                "code": "2-11-1",
+                                "capital": "Notsé",
+                                "cantons": [
+                                    {
+                                        "id": 308,
+                                        "name": "Notsé",
+                                        "code": "2-11-1-1"
+                                    },
+                                    {
+                                        "id": 309,
+                                        "name": "Atsavé",
+                                        "code": "2-11-1-2"
+                                    },
+                                    {
+                                        "id": 310,
+                                        "name": "Dalia",
+                                        "code": "2-11-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 83,
+                                "name": "Haho 2",
+                                "code": "2-11-2",
+                                "capital": "Asrama",
+                                "cantons": [
+                                    {
+                                        "id": 311,
+                                        "name": "Asrama",
+                                        "code": "2-11-2-1"
+                                    },
+                                    {
+                                        "id": 312,
+                                        "name": "Djéméni",
+                                        "code": "2-11-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 84,
+                                "name": "Haho 3",
+                                "code": "2-11-3",
+                                "capital": "Kpédomé",
+                                "cantons": [
+                                    {
+                                        "id": 313,
+                                        "name": "Kpédomé",
+                                        "code": "2-11-3-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 85,
+                                "name": "Haho 4",
+                                "code": "2-11-4",
+                                "capital": "Wahala",
+                                "cantons": [
+                                    {
+                                        "id": 314,
+                                        "name": "Wahala",
+                                        "code": "2-11-4-1"
+                                    },
+                                    {
+                                        "id": 315,
+                                        "name": "Ayito",
+                                        "code": "2-11-4-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Centrale",
+                "code": "3",
+                "capital": "Sokodé",
+                "prefectures": [
+                    {
+                        "id": 21,
+                        "name": "Tchaoudjo",
+                        "code": "3-0",
+                        "capital": "Sokodé",
+                        "municipalities": [
+                            {
+                                "id": 39,
+                                "name": "Tchaoudjo 1",
+                                "code": "3-0-1",
+                                "capital": "Sokodè",
+                                "cantons": [
+                                    {
+                                        "id": 144,
+                                        "name": "Sokodè (Komah)",
+                                        "code": "3-0-1-1"
+                                    },
+                                    {
+                                        "id": 145,
+                                        "name": "Kpangalam",
+                                        "code": "3-0-1-2"
+                                    },
+                                    {
+                                        "id": 146,
+                                        "name": "Kadambara",
+                                        "code": "3-0-1-3"
+                                    },
+                                    {
+                                        "id": 147,
+                                        "name": "Tchalo",
+                                        "code": "3-0-1-4"
+                                    },
+                                    {
+                                        "id": 148,
+                                        "name": "Kparataou",
+                                        "code": "3-0-1-5"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 40,
+                                "name": "Tchaoudjo 2",
+                                "code": "3-0-2",
+                                "capital": "Lama-Tessi",
+                                "cantons": [
+                                    {
+                                        "id": 149,
+                                        "name": "Lama-Tessi",
+                                        "code": "3-0-2-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 41,
+                                "name": "Tchaoudjo 3",
+                                "code": "3-0-3",
+                                "capital": "Aléhéridè",
+                                "cantons": [
+                                    {
+                                        "id": 150,
+                                        "name": "Aléhéridè",
+                                        "code": "3-0-3-1"
+                                    },
+                                    {
+                                        "id": 151,
+                                        "name": "Kéméni",
+                                        "code": "3-0-3-2"
+                                    },
+                                    {
+                                        "id": 152,
+                                        "name": "Kolina",
+                                        "code": "3-0-3-3"
+                                    },
+                                    {
+                                        "id": 153,
+                                        "name": "Amaidè",
+                                        "code": "3-0-3-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 42,
+                                "name": "Tchaoudjo 4",
+                                "code": "3-0-4",
+                                "capital": "Agouloudè",
+                                "cantons": [
+                                    {
+                                        "id": 154,
+                                        "name": "Agouloudè",
+                                        "code": "3-0-4-1"
+                                    },
+                                    {
+                                        "id": 155,
+                                        "name": "Wassarabou",
+                                        "code": "3-0-4-2"
+                                    },
+                                    {
+                                        "id": 156,
+                                        "name": "Kpassouadè",
+                                        "code": "3-0-4-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "name": "Sotouboua",
+                        "code": "3-1",
+                        "capital": "Sotouboua",
+                        "municipalities": [
+                            {
+                                "id": 43,
+                                "name": "Sotouboua 1",
+                                "code": "3-1-1",
+                                "capital": "Sotouboua",
+                                "cantons": [
+                                    {
+                                        "id": 157,
+                                        "name": "Sotouboua",
+                                        "code": "3-1-1-1"
+                                    },
+                                    {
+                                        "id": 158,
+                                        "name": "Tabindè",
+                                        "code": "3-1-1-2"
+                                    },
+                                    {
+                                        "id": 159,
+                                        "name": "Kaniamboua",
+                                        "code": "3-1-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 44,
+                                "name": "Sotouboua 2",
+                                "code": "3-1-2",
+                                "capital": "Adjengré",
+                                "cantons": [
+                                    {
+                                        "id": 160,
+                                        "name": "Adjengré",
+                                        "code": "3-1-2-1"
+                                    },
+                                    {
+                                        "id": 161,
+                                        "name": "Aouda",
+                                        "code": "3-1-2-2"
+                                    },
+                                    {
+                                        "id": 162,
+                                        "name": "Fazao",
+                                        "code": "3-1-2-3"
+                                    },
+                                    {
+                                        "id": 163,
+                                        "name": "Titigbé",
+                                        "code": "3-1-2-4"
+                                    },
+                                    {
+                                        "id": 164,
+                                        "name": "Séssaro",
+                                        "code": "3-1-2-5"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 45,
+                                "name": "Sotouboua 3",
+                                "code": "3-1-3",
+                                "capital": "Tchébébé",
+                                "cantons": [
+                                    {
+                                        "id": 165,
+                                        "name": "Tchébébé",
+                                        "code": "3-1-3-1"
+                                    },
+                                    {
+                                        "id": 166,
+                                        "name": "Bodjondè",
+                                        "code": "3-1-3-2"
+                                    },
+                                    {
+                                        "id": 167,
+                                        "name": "Kazaboua",
+                                        "code": "3-1-3-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "name": "Mô",
+                        "code": "3-2",
+                        "capital": "Djarkpanga",
+                        "municipalities": [
+                            {
+                                "id": 46,
+                                "name": "Mô 1",
+                                "code": "3-2-1",
+                                "capital": "Djarkpanga",
+                                "cantons": [
+                                    {
+                                        "id": 168,
+                                        "name": "Djarkpanga",
+                                        "code": "3-2-1-1"
+                                    },
+                                    {
+                                        "id": 169,
+                                        "name": "Boulohou",
+                                        "code": "3-2-1-2"
+                                    },
+                                    {
+                                        "id": 170,
+                                        "name": "Kagningbara",
+                                        "code": "3-2-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 47,
+                                "name": "Mô 2",
+                                "code": "3-2-2",
+                                "capital": "Tindjassi",
+                                "cantons": [
+                                    {
+                                        "id": 171,
+                                        "name": "Tindjassi",
+                                        "code": "3-2-2-1"
+                                    },
+                                    {
+                                        "id": 172,
+                                        "name": "Saïboudè",
+                                        "code": "3-2-2-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "name": "Tchamba",
+                        "code": "3-3",
+                        "capital": "Tchamba",
+                        "municipalities": [
+                            {
+                                "id": 48,
+                                "name": "Tchamba 1",
+                                "code": "3-3-1",
+                                "capital": "Tchamba",
+                                "cantons": [
+                                    {
+                                        "id": 173,
+                                        "name": "Tchamba",
+                                        "code": "3-3-1-1"
+                                    },
+                                    {
+                                        "id": 174,
+                                        "name": "Affem",
+                                        "code": "3-3-1-2"
+                                    },
+                                    {
+                                        "id": 175,
+                                        "name": "Larini",
+                                        "code": "3-3-1-3"
+                                    },
+                                    {
+                                        "id": 176,
+                                        "name": "Adjéidè",
+                                        "code": "3-3-1-4"
+                                    },
+                                    {
+                                        "id": 177,
+                                        "name": "Alibi I",
+                                        "code": "3-3-1-5"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 49,
+                                "name": "Tchamba 2",
+                                "code": "3-3-2",
+                                "capital": "Koussountou",
+                                "cantons": [
+                                    {
+                                        "id": 178,
+                                        "name": "Koussountou",
+                                        "code": "3-3-2-1"
+                                    },
+                                    {
+                                        "id": 179,
+                                        "name": "Bago",
+                                        "code": "3-3-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 50,
+                                "name": "Tchamba 3",
+                                "code": "3-3-3",
+                                "capital": "Kaboli",
+                                "cantons": [
+                                    {
+                                        "id": 180,
+                                        "name": "Kaboli",
+                                        "code": "3-3-3-1"
+                                    },
+                                    {
+                                        "id": 181,
+                                        "name": "Goubi",
+                                        "code": "3-3-3-2"
+                                    },
+                                    {
+                                        "id": 182,
+                                        "name": "Balanka",
+                                        "code": "3-3-3-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 25,
+                        "name": "Blitta",
+                        "code": "3-4",
+                        "capital": "Blitta",
+                        "municipalities": [
+                            {
+                                "id": 51,
+                                "name": "Blitta 1",
+                                "code": "3-4-1",
+                                "capital": "Blitta-Gare",
+                                "cantons": [
+                                    {
+                                        "id": 183,
+                                        "name": "Blitta-Gare",
+                                        "code": "3-4-1-1"
+                                    },
+                                    {
+                                        "id": 184,
+                                        "name": "Pagala-Gare",
+                                        "code": "3-4-1-2"
+                                    },
+                                    {
+                                        "id": 185,
+                                        "name": "Waragni",
+                                        "code": "3-4-1-3"
+                                    },
+                                    {
+                                        "id": 186,
+                                        "name": "Doufouli",
+                                        "code": "3-4-1-4"
+                                    },
+                                    {
+                                        "id": 187,
+                                        "name": "Blitta-Village",
+                                        "code": "3-4-1-5"
+                                    },
+                                    {
+                                        "id": 188,
+                                        "name": "Tchaloudè",
+                                        "code": "3-4-1-6"
+                                    },
+                                    {
+                                        "id": 189,
+                                        "name": "Yaloumbè",
+                                        "code": "3-4-1-7"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 52,
+                                "name": "Blitta 2",
+                                "code": "3-4-2",
+                                "capital": "Agbandi",
+                                "cantons": [
+                                    {
+                                        "id": 190,
+                                        "name": "Agbandi",
+                                        "code": "3-4-2-1"
+                                    },
+                                    {
+                                        "id": 191,
+                                        "name": "Langabou",
+                                        "code": "3-4-2-2"
+                                    },
+                                    {
+                                        "id": 192,
+                                        "name": "Koffiti",
+                                        "code": "3-4-2-3"
+                                    },
+                                    {
+                                        "id": 193,
+                                        "name": "Tcharè-Baou",
+                                        "code": "3-4-2-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 53,
+                                "name": "Blitta 3",
+                                "code": "3-4-3",
+                                "capital": "M’Poti",
+                                "cantons": [
+                                    {
+                                        "id": 194,
+                                        "name": "M’Poti",
+                                        "code": "3-4-3-1"
+                                    },
+                                    {
+                                        "id": 195,
+                                        "name": "Tintchro",
+                                        "code": "3-4-3-2"
+                                    },
+                                    {
+                                        "id": 196,
+                                        "name": "Atchintsè",
+                                        "code": "3-4-3-3"
+                                    },
+                                    {
+                                        "id": 197,
+                                        "name": "Diguengué",
+                                        "code": "3-4-3-4"
+                                    },
+                                    {
+                                        "id": 198,
+                                        "name": "Yégué",
+                                        "code": "3-4-3-5"
+                                    },
+                                    {
+                                        "id": 199,
+                                        "name": "Tchifama",
+                                        "code": "3-4-3-6"
+                                    },
+                                    {
+                                        "id": 200,
+                                        "name": "Dikpéléou",
+                                        "code": "3-4-3-7"
+                                    },
+                                    {
+                                        "id": 201,
+                                        "name": "Katchenkè",
+                                        "code": "3-4-3-8"
+                                    },
+                                    {
+                                        "id": 202,
+                                        "name": "Pagala-Village",
+                                        "code": "3-4-3-9"
+                                    },
+                                    {
+                                        "id": 203,
+                                        "name": "Welly",
+                                        "code": "3-4-3-10"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Kara",
+                "code": "4",
+                "capital": "Kara",
+                "prefectures": [
+                    {
+                        "id": 26,
+                        "name": "Kéran",
+                        "code": "4-0",
+                        "capital": "Kandé",
+                        "municipalities": [
+                            {
+                                "id": 17,
+                                "name": "Kéran 1",
+                                "code": "4-0-1",
+                                "capital": "Kantè",
+                                "cantons": [
+                                    {
+                                        "id": 69,
+                                        "name": "Kantè",
+                                        "code": "4-0-1-1"
+                                    },
+                                    {
+                                        "id": 70,
+                                        "name": "Pessidè",
+                                        "code": "4-0-1-2"
+                                    },
+                                    {
+                                        "id": 71,
+                                        "name": "Akpontè",
+                                        "code": "4-0-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 18,
+                                "name": "Kéran 2",
+                                "code": "4-0-2",
+                                "capital": "Ataloté",
+                                "cantons": [
+                                    {
+                                        "id": 72,
+                                        "name": "Ataloté",
+                                        "code": "4-0-2-1"
+                                    },
+                                    {
+                                        "id": 73,
+                                        "name": "Ossacré",
+                                        "code": "4-0-2-2"
+                                    },
+                                    {
+                                        "id": 74,
+                                        "name": "Hélota",
+                                        "code": "4-0-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 19,
+                                "name": "Kéran 3",
+                                "code": "4-0-3",
+                                "capital": "Nadoba",
+                                "cantons": [
+                                    {
+                                        "id": 75,
+                                        "name": "Nadoba",
+                                        "code": "4-0-3-1"
+                                    },
+                                    {
+                                        "id": 76,
+                                        "name": "Warengo",
+                                        "code": "4-0-3-2"
+                                    },
+                                    {
+                                        "id": 77,
+                                        "name": "Koutougou",
+                                        "code": "4-0-3-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 27,
+                        "name": "Bassar",
+                        "code": "4-1",
+                        "capital": "Bassar",
+                        "municipalities": [
+                            {
+                                "id": 20,
+                                "name": "Bassar 1",
+                                "code": "4-1-1",
+                                "capital": "Bassar",
+                                "cantons": [
+                                    {
+                                        "id": 78,
+                                        "name": "Bassar",
+                                        "code": "4-1-1-1"
+                                    },
+                                    {
+                                        "id": 79,
+                                        "name": "Kalanga",
+                                        "code": "4-1-1-2"
+                                    },
+                                    {
+                                        "id": 80,
+                                        "name": "Baghan",
+                                        "code": "4-1-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 21,
+                                "name": "Bassar 2",
+                                "code": "4-1-2",
+                                "capital": "Bandjeli",
+                                "cantons": [
+                                    {
+                                        "id": 81,
+                                        "name": "Bandjeli",
+                                        "code": "4-1-2-1"
+                                    },
+                                    {
+                                        "id": 82,
+                                        "name": "Dimouri",
+                                        "code": "4-1-2-2"
+                                    },
+                                    {
+                                        "id": 83,
+                                        "name": "Bitchabe",
+                                        "code": "4-1-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 22,
+                                "name": "Bassar 3",
+                                "code": "4-1-3",
+                                "capital": "Kabou",
+                                "cantons": [
+                                    {
+                                        "id": 84,
+                                        "name": "Kabou",
+                                        "code": "4-1-3-1"
+                                    },
+                                    {
+                                        "id": 85,
+                                        "name": "Manga",
+                                        "code": "4-1-3-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 23,
+                                "name": "Bassar 4",
+                                "code": "4-1-4",
+                                "capital": "Sanda-Kagbanda",
+                                "cantons": [
+                                    {
+                                        "id": 86,
+                                        "name": "Sanda-Kagbanda",
+                                        "code": "4-1-4-1"
+                                    },
+                                    {
+                                        "id": 87,
+                                        "name": "Sanda-Afowou",
+                                        "code": "4-1-4-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 28,
+                        "name": "Dankpen",
+                        "code": "4-2",
+                        "capital": "Guérin-Kouka",
+                        "municipalities": [
+                            {
+                                "id": 24,
+                                "name": "Dankpen 1",
+                                "code": "4-2-1",
+                                "capital": "GuerinKouka",
+                                "cantons": [
+                                    {
+                                        "id": 88,
+                                        "name": "Guerin-Kouka",
+                                        "code": "4-2-1-1"
+                                    },
+                                    {
+                                        "id": 89,
+                                        "name": "Nampoch",
+                                        "code": "4-2-1-2"
+                                    },
+                                    {
+                                        "id": 90,
+                                        "name": "Katchamba",
+                                        "code": "4-2-1-3"
+                                    },
+                                    {
+                                        "id": 91,
+                                        "name": "Koulfeikou",
+                                        "code": "4-2-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 25,
+                                "name": "Dankpen 2",
+                                "code": "4-2-2",
+                                "capital": "Namon",
+                                "cantons": [
+                                    {
+                                        "id": 92,
+                                        "name": "Namon",
+                                        "code": "4-2-2-1"
+                                    },
+                                    {
+                                        "id": 93,
+                                        "name": "Natchitikpi",
+                                        "code": "4-2-2-2"
+                                    },
+                                    {
+                                        "id": 94,
+                                        "name": "Kitchitchéou",
+                                        "code": "4-2-2-3"
+                                    },
+                                    {
+                                        "id": 95,
+                                        "name": "Natchiboré",
+                                        "code": "4-2-2-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 26,
+                                "name": "Dankpen 3",
+                                "code": "4-2-3",
+                                "capital": "Bapuré",
+                                "cantons": [
+                                    {
+                                        "id": 96,
+                                        "name": "Bapuré",
+                                        "code": "4-2-3-1"
+                                    },
+                                    {
+                                        "id": 97,
+                                        "name": "Nawaré",
+                                        "code": "4-2-3-2"
+                                    },
+                                    {
+                                        "id": 98,
+                                        "name": "Nadouta",
+                                        "code": "4-2-3-3"
+                                    },
+                                    {
+                                        "id": 99,
+                                        "name": "Kidjabou",
+                                        "code": "4-2-3-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "name": "Kozah",
+                        "code": "4-3",
+                        "capital": "Kara",
+                        "municipalities": [
+                            {
+                                "id": 27,
+                                "name": "Kozah 1",
+                                "code": "4-3-1",
+                                "capital": "Kara",
+                                "cantons": [
+                                    {
+                                        "id": 100,
+                                        "name": "Lama",
+                                        "code": "4-3-1-1"
+                                    },
+                                    {
+                                        "id": 101,
+                                        "name": "Lassa",
+                                        "code": "4-3-1-2"
+                                    },
+                                    {
+                                        "id": 102,
+                                        "name": "Soumdina",
+                                        "code": "4-3-1-3"
+                                    },
+                                    {
+                                        "id": 103,
+                                        "name": "Landa",
+                                        "code": "4-3-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 28,
+                                "name": "Kozah 2",
+                                "code": "4-3-2",
+                                "capital": "Pya",
+                                "cantons": [
+                                    {
+                                        "id": 104,
+                                        "name": "Pya",
+                                        "code": "4-3-2-1"
+                                    },
+                                    {
+                                        "id": 105,
+                                        "name": "Bohou",
+                                        "code": "4-3-2-2"
+                                    },
+                                    {
+                                        "id": 106,
+                                        "name": "Yadè",
+                                        "code": "4-3-2-3"
+                                    },
+                                    {
+                                        "id": 107,
+                                        "name": "Tchitchao",
+                                        "code": "4-3-2-4"
+                                    },
+                                    {
+                                        "id": 108,
+                                        "name": "Sarakawa",
+                                        "code": "4-3-2-5"
+                                    },
+                                    {
+                                        "id": 109,
+                                        "name": "Tcharè",
+                                        "code": "4-3-2-6"
+                                    },
+                                    {
+                                        "id": 110,
+                                        "name": "Kouméa",
+                                        "code": "4-3-2-7"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 29,
+                                "name": "Kozah 3",
+                                "code": "4-3-3",
+                                "capital": "Awandjelo",
+                                "cantons": [
+                                    {
+                                        "id": 111,
+                                        "name": "Awandjelo",
+                                        "code": "4-3-3-1"
+                                    },
+                                    {
+                                        "id": 112,
+                                        "name": "Landa-Kpinzindè",
+                                        "code": "4-3-3-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 30,
+                                "name": "Kozah 4",
+                                "code": "4-3-4",
+                                "capital": "Atchangbadè",
+                                "cantons": [
+                                    {
+                                        "id": 113,
+                                        "name": "Atchangbadè",
+                                        "code": "4-3-4-1"
+                                    },
+                                    {
+                                        "id": 114,
+                                        "name": "Djamdè",
+                                        "code": "4-3-4-2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "name": "Binah",
+                        "code": "4-4",
+                        "capital": "Pagouda",
+                        "municipalities": [
+                            {
+                                "id": 31,
+                                "name": "Binah 1",
+                                "code": "4-4-1",
+                                "capital": "Pagouda",
+                                "cantons": [
+                                    {
+                                        "id": 115,
+                                        "name": "Pagouda",
+                                        "code": "4-4-1-1"
+                                    },
+                                    {
+                                        "id": 116,
+                                        "name": "Solla",
+                                        "code": "4-4-1-2"
+                                    },
+                                    {
+                                        "id": 117,
+                                        "name": "Boufalé",
+                                        "code": "4-4-1-3"
+                                    },
+                                    {
+                                        "id": 118,
+                                        "name": "Pessaré",
+                                        "code": "4-4-1-4"
+                                    },
+                                    {
+                                        "id": 119,
+                                        "name": "Pitikita",
+                                        "code": "4-4-1-5"
+                                    },
+                                    {
+                                        "id": 120,
+                                        "name": "Lama-Dessi",
+                                        "code": "4-4-1-6"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 32,
+                                "name": "Binah 2",
+                                "code": "4-4-2",
+                                "capital": "Kétao",
+                                "cantons": [
+                                    {
+                                        "id": 121,
+                                        "name": "Kétao",
+                                        "code": "4-4-2-1"
+                                    },
+                                    {
+                                        "id": 122,
+                                        "name": "Kémérida",
+                                        "code": "4-4-2-2"
+                                    },
+                                    {
+                                        "id": 123,
+                                        "name": "Sirka",
+                                        "code": "4-4-2-3"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Doufelgou",
+                        "code": "4-5",
+                        "capital": "Niamtougou",
+                        "municipalities": [
+                            {
+                                "id": 33,
+                                "name": "Doufelgou 1",
+                                "code": "4-5-1",
+                                "capital": "Niamtougou",
+                                "cantons": [
+                                    {
+                                        "id": 124,
+                                        "name": "Niamtougou",
+                                        "code": "4-5-1-1"
+                                    },
+                                    {
+                                        "id": 125,
+                                        "name": "Siou",
+                                        "code": "4-5-1-2"
+                                    },
+                                    {
+                                        "id": 126,
+                                        "name": "Pouda",
+                                        "code": "4-5-1-3"
+                                    },
+                                    {
+                                        "id": 127,
+                                        "name": "Baga",
+                                        "code": "4-5-1-4"
+                                    },
+                                    {
+                                        "id": 128,
+                                        "name": "Massédéna",
+                                        "code": "4-5-1-5"
+                                    },
+                                    {
+                                        "id": 129,
+                                        "name": "Koka",
+                                        "code": "4-5-1-6"
+                                    },
+                                    {
+                                        "id": 130,
+                                        "name": "Agbandè-Yaka",
+                                        "code": "4-5-1-7"
+                                    },
+                                    {
+                                        "id": 131,
+                                        "name": "Ténéga",
+                                        "code": "4-5-1-8"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 34,
+                                "name": "Doufelgou 2",
+                                "code": "4-5-2",
+                                "capital": "Défalé",
+                                "cantons": [
+                                    {
+                                        "id": 132,
+                                        "name": "Défalé",
+                                        "code": "4-5-2-1"
+                                    },
+                                    {
+                                        "id": 133,
+                                        "name": "Kpaha",
+                                        "code": "4-5-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 35,
+                                "name": "Doufelgou 3",
+                                "code": "4-5-3",
+                                "capital": "Alloum",
+                                "cantons": [
+                                    {
+                                        "id": 134,
+                                        "name": "Alloum",
+                                        "code": "4-5-3-1"
+                                    },
+                                    {
+                                        "id": 135,
+                                        "name": "Tchoré",
+                                        "code": "4-5-3-2"
+                                    },
+                                    {
+                                        "id": 136,
+                                        "name": "Kadjala",
+                                        "code": "4-5-3-3"
+                                    },
+                                    {
+                                        "id": 137,
+                                        "name": "Léon",
+                                        "code": "4-5-3-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 32,
+                        "name": "Assoli",
+                        "code": "4-6",
+                        "capital": "Bafilo",
+                        "municipalities": [
+                            {
+                                "id": 36,
+                                "name": "Assoli 1",
+                                "code": "4-6-1",
+                                "capital": "Bafilo",
+                                "cantons": [
+                                    {
+                                        "id": 138,
+                                        "name": "Bafilo",
+                                        "code": "4-6-1-1"
+                                    },
+                                    {
+                                        "id": 139,
+                                        "name": "Dako",
+                                        "code": "4-6-1-2"
+                                    },
+                                    {
+                                        "id": 140,
+                                        "name": "Bouladè",
+                                        "code": "4-6-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 37,
+                                "name": "Assoli 2",
+                                "code": "4-6-2",
+                                "capital": "Aledjo",
+                                "cantons": [
+                                    {
+                                        "id": 141,
+                                        "name": "Alédjo",
+                                        "code": "4-6-2-1"
+                                    },
+                                    {
+                                        "id": 142,
+                                        "name": "Koumondè",
+                                        "code": "4-6-2-2"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 38,
+                                "name": "Assoli 3",
+                                "code": "4-6-3",
+                                "capital": "Soudou",
+                                "cantons": [
+                                    {
+                                        "id": 143,
+                                        "name": "Soudou",
+                                        "code": "4-6-3-1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Savanes",
+                "code": "5",
+                "capital": "Dapaong",
+                "prefectures": [
+                    {
+                        "id": 33,
+                        "name": "Cinkassé",
+                        "code": "5-0",
+                        "capital": "Cinkassé",
+                        "municipalities": [
+                            {
+                                "id": 1,
+                                "name": "Cinkassé 1",
+                                "code": "5-0-1",
+                                "capital": "Cinkassé",
+                                "cantons": [
+                                    {
+                                        "id": 1,
+                                        "name": "Cinkassé",
+                                        "code": "5-0-1-1"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Boadé",
+                                        "code": "5-0-1-2"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Noaga",
+                                        "code": "5-0-1-3"
+                                    },
+                                    {
+                                        "id": 4,
+                                        "name": "Gouloungoussi",
+                                        "code": "5-0-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "Cinkassé 2",
+                                "code": "5-0-2",
+                                "capital": "Timbou",
+                                "cantons": [
+                                    {
+                                        "id": 5,
+                                        "name": "Timbou",
+                                        "code": "5-0-2-1"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Sam-Naba",
+                                        "code": "5-0-2-2"
+                                    },
+                                    {
+                                        "id": 7,
+                                        "name": "Nadjoundi",
+                                        "code": "5-0-2-3"
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "Biankouri",
+                                        "code": "5-0-2-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 34,
+                        "name": "Tône",
+                        "code": "5-1",
+                        "capital": "Dapaong",
+                        "municipalities": [
+                            {
+                                "id": 3,
+                                "name": "Tône 1",
+                                "code": "5-1-1",
+                                "capital": "Dapaong",
+                                "cantons": [
+                                    {
+                                        "id": 9,
+                                        "name": "Dapaong",
+                                        "code": "5-1-1-1"
+                                    },
+                                    {
+                                        "id": 10,
+                                        "name": "Toaga",
+                                        "code": "5-1-1-2"
+                                    },
+                                    {
+                                        "id": 11,
+                                        "name": "Pana",
+                                        "code": "5-1-1-3"
+                                    },
+                                    {
+                                        "id": 12,
+                                        "name": "Bidjenga",
+                                        "code": "5-1-1-4"
+                                    },
+                                    {
+                                        "id": 13,
+                                        "name": "Kourientre",
+                                        "code": "5-1-1-5"
+                                    },
+                                    {
+                                        "id": 14,
+                                        "name": "Poissongui",
+                                        "code": "5-1-1-6"
+                                    },
+                                    {
+                                        "id": 15,
+                                        "name": "Natigou",
+                                        "code": "5-1-1-7"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Tône 2",
+                                "code": "5-1-2",
+                                "capital": "Naki-Ouest",
+                                "cantons": [
+                                    {
+                                        "id": 16,
+                                        "name": "Naki-Ouest",
+                                        "code": "5-1-2-1"
+                                    },
+                                    {
+                                        "id": 17,
+                                        "name": "Namaré",
+                                        "code": "5-1-2-2"
+                                    },
+                                    {
+                                        "id": 18,
+                                        "name": "Nanergou",
+                                        "code": "5-1-2-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tône 3",
+                                "code": "5-1-3",
+                                "capital": "Tami",
+                                "cantons": [
+                                    {
+                                        "id": 19,
+                                        "name": "Tami",
+                                        "code": "5-1-3-1"
+                                    },
+                                    {
+                                        "id": 20,
+                                        "name": "Nioukpourma",
+                                        "code": "5-1-3-2"
+                                    },
+                                    {
+                                        "id": 21,
+                                        "name": "Lotogou Warkambou",
+                                        "code": "5-1-3-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 6,
+                                "name": "Tône 4",
+                                "code": "5-1-4",
+                                "capital": "Korbongou",
+                                "cantons": [
+                                    {
+                                        "id": 22,
+                                        "name": "Korbongou",
+                                        "code": "5-1-4-1"
+                                    },
+                                    {
+                                        "id": 23,
+                                        "name": "Sanfatoute",
+                                        "code": "5-1-4-2"
+                                    },
+                                    {
+                                        "id": 24,
+                                        "name": "Louanga",
+                                        "code": "5-1-4-3"
+                                    },
+                                    {
+                                        "id": 25,
+                                        "name": "Katindi",
+                                        "code": "5-1-4-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 35,
+                        "name": "Kpendjal",
+                        "code": "5-2",
+                        "capital": "Mandouri",
+                        "municipalities": [
+                            {
+                                "id": 7,
+                                "name": "Kpendjal 1",
+                                "code": "5-2-1",
+                                "capital": "Mandouri",
+                                "cantons": [
+                                    {
+                                        "id": 26,
+                                        "name": "Mandouri",
+                                        "code": "5-2-1-1"
+                                    },
+                                    {
+                                        "id": 27,
+                                        "name": "Koundjoaré",
+                                        "code": "5-2-1-2"
+                                    },
+                                    {
+                                        "id": 28,
+                                        "name": "Tambigou",
+                                        "code": "5-2-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 8,
+                                "name": "Kpendjal 2",
+                                "code": "5-2-2",
+                                "capital": "Borgou",
+                                "cantons": [
+                                    {
+                                        "id": 29,
+                                        "name": "Borgou",
+                                        "code": "5-2-2-1"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 36,
+                        "name": "Kpendjal Ouest",
+                        "code": "5-3",
+                        "capital": "Naki-Est",
+                        "municipalities": [
+                            {
+                                "id": 9,
+                                "name": "Kpendjal Ouest 1",
+                                "code": "5-3-1",
+                                "capital": "Naki-Est",
+                                "cantons": [
+                                    {
+                                        "id": 30,
+                                        "name": "Naki-Est",
+                                        "code": "5-3-1-1"
+                                    },
+                                    {
+                                        "id": 31,
+                                        "name": "Ogaro",
+                                        "code": "5-3-1-2"
+                                    },
+                                    {
+                                        "id": 32,
+                                        "name": "Nayéga",
+                                        "code": "5-3-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 10,
+                                "name": "Kpendjal Ouest 2",
+                                "code": "5-3-2",
+                                "capital": "Pogno",
+                                "cantons": [
+                                    {
+                                        "id": 33,
+                                        "name": "Pogno",
+                                        "code": "5-3-2-1"
+                                    },
+                                    {
+                                        "id": 34,
+                                        "name": "Namoundjoga",
+                                        "code": "5-3-2-2"
+                                    },
+                                    {
+                                        "id": 35,
+                                        "name": "Tambonga",
+                                        "code": "5-3-2-3"
+                                    },
+                                    {
+                                        "id": 36,
+                                        "name": "Papri",
+                                        "code": "5-3-2-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 37,
+                        "name": "Oti",
+                        "code": "5-4",
+                        "capital": "Mango",
+                        "municipalities": [
+                            {
+                                "id": 11,
+                                "name": "Oti 1",
+                                "code": "5-4-1",
+                                "capital": "Mango",
+                                "cantons": [
+                                    {
+                                        "id": 37,
+                                        "name": "Mango",
+                                        "code": "5-4-1-1"
+                                    },
+                                    {
+                                        "id": 38,
+                                        "name": "Sadori",
+                                        "code": "5-4-1-2"
+                                    },
+                                    {
+                                        "id": 39,
+                                        "name": "Faré",
+                                        "code": "5-4-1-3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 12,
+                                "name": "Oti 2",
+                                "code": "5-4-2",
+                                "capital": "Barkoissi",
+                                "cantons": [
+                                    {
+                                        "id": 40,
+                                        "name": "Barkoissi",
+                                        "code": "5-4-2-1"
+                                    },
+                                    {
+                                        "id": 41,
+                                        "name": "Nagbéni",
+                                        "code": "5-4-2-2"
+                                    },
+                                    {
+                                        "id": 42,
+                                        "name": "Loko",
+                                        "code": "5-4-2-3"
+                                    },
+                                    {
+                                        "id": 43,
+                                        "name": "Galangashie",
+                                        "code": "5-4-2-4"
+                                    },
+                                    {
+                                        "id": 44,
+                                        "name": "Tchanaga",
+                                        "code": "5-4-2-5"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 38,
+                        "name": "Oti Sud",
+                        "code": "5-5",
+                        "capital": "Gando",
+                        "municipalities": [
+                            {
+                                "id": 13,
+                                "name": "Oti Sud 1",
+                                "code": "5-5-1",
+                                "capital": "Gando",
+                                "cantons": [
+                                    {
+                                        "id": 45,
+                                        "name": "Gando",
+                                        "code": "5-5-1-1"
+                                    },
+                                    {
+                                        "id": 46,
+                                        "name": "Mogou",
+                                        "code": "5-5-1-2"
+                                    },
+                                    {
+                                        "id": 47,
+                                        "name": "Sagbiebou",
+                                        "code": "5-5-1-3"
+                                    },
+                                    {
+                                        "id": 48,
+                                        "name": "Tchamonga",
+                                        "code": "5-5-1-4"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 14,
+                                "name": "Oti Sud 2",
+                                "code": "5-5-2",
+                                "capital": "Takpamba",
+                                "cantons": [
+                                    {
+                                        "id": 49,
+                                        "name": "Takpamba",
+                                        "code": "5-5-2-1"
+                                    },
+                                    {
+                                        "id": 50,
+                                        "name": "Nali",
+                                        "code": "5-5-2-2"
+                                    },
+                                    {
+                                        "id": 51,
+                                        "name": "Koumongou",
+                                        "code": "5-5-2-3"
+                                    },
+                                    {
+                                        "id": 52,
+                                        "name": "Kountoaré",
+                                        "code": "5-5-2-4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 39,
+                        "name": "Tandjoaré",
+                        "code": "5-6",
+                        "capital": "Tandjoaré",
+                        "municipalities": [
+                            {
+                                "id": 15,
+                                "name": "Tandjoaré 1",
+                                "code": "5-6-1",
+                                "capital": "Tandjoaré",
+                                "cantons": [
+                                    {
+                                        "id": 53,
+                                        "name": "Bogou",
+                                        "code": "5-6-1-1"
+                                    },
+                                    {
+                                        "id": 54,
+                                        "name": "Pligou",
+                                        "code": "5-6-1-2"
+                                    },
+                                    {
+                                        "id": 55,
+                                        "name": "Boulogou",
+                                        "code": "5-6-1-3"
+                                    },
+                                    {
+                                        "id": 56,
+                                        "name": "Nandoga",
+                                        "code": "5-6-1-4"
+                                    },
+                                    {
+                                        "id": 57,
+                                        "name": "Bombouaka",
+                                        "code": "5-6-1-5"
+                                    },
+                                    {
+                                        "id": 58,
+                                        "name": "Goundoga",
+                                        "code": "5-6-1-6"
+                                    },
+                                    {
+                                        "id": 59,
+                                        "name": "Tamongue",
+                                        "code": "5-6-1-7"
+                                    },
+                                    {
+                                        "id": 60,
+                                        "name": "Loko",
+                                        "code": "5-6-1-8"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 16,
+                                "name": "Tandjoaré 2",
+                                "code": "5-6-2",
+                                "capital": "Nano",
+                                "cantons": [
+                                    {
+                                        "id": 61,
+                                        "name": "Nano",
+                                        "code": "5-6-2-1"
+                                    },
+                                    {
+                                        "id": 62,
+                                        "name": "Sissiak",
+                                        "code": "5-6-2-2"
+                                    },
+                                    {
+                                        "id": 63,
+                                        "name": "Bagou",
+                                        "code": "5-6-2-3"
+                                    },
+                                    {
+                                        "id": 64,
+                                        "name": "Tampialime",
+                                        "code": "5-6-2-4"
+                                    },
+                                    {
+                                        "id": 65,
+                                        "name": "Mamproug",
+                                        "code": "5-6-2-5"
+                                    },
+                                    {
+                                        "id": 66,
+                                        "name": "Doukpergou",
+                                        "code": "5-6-2-6"
+                                    },
+                                    {
+                                        "id": 67,
+                                        "name": "Lokpanou",
+                                        "code": "5-6-2-7"
+                                    },
+                                    {
+                                        "id": 68,
+                                        "name": "Sangou",
+                                        "code": "5-6-2-8"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "ReforestrationRequest creation data retrieved successfully."
+}
